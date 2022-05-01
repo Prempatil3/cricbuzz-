@@ -1,0 +1,2 @@
+# cricbuzz-
+Free for all
